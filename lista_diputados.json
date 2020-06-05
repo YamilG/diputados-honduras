@@ -1,0 +1,1034 @@
+[
+  {
+    "nombres": "Rodolfo",
+    "apellidos": "Irías Navas",
+    "celular": [],
+    "email": ["rodolfoirias@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Iveth Obdulia",
+    "apellidos": "Matute Betancourth",
+    "celular": [],
+    "email": ["imbetanco@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Abigahil",
+    "apellidos": "Ramos Gómez",
+    "celular": [],
+    "email": ["abigail1985ramos@gmail.com"],
+    "partido": "nacional",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Bader Abraham",
+    "apellidos": "Dip Alvarado",
+    "celular": [],
+    "email": ["bader@tevisat.net"],
+    "partido": "liberal",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Luis Enrique",
+    "apellidos": "Fuentes Morales",
+    "celular": [],
+    "email": ["luis.efuentes@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Tomás Antonio",
+    "apellidos": "Ramírez Hernández",
+    "celular": [],
+    "email": ["tomramirez0207@gmail.com"],
+    "partido": "pinu",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Scarlett Isabel",
+    "apellidos": "Villanueva Dubón",
+    "celular": [],
+    "email": ["scarlett.villanueva@yahoo.es"],
+    "partido": "libre",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "José Anibal",
+    "apellidos": "Rodríguez Milla",
+    "celular": [],
+    "email": [],
+    "partido": "libre",
+    "departamento": "atlantida"
+  },
+  {
+    "nombres": "Ariana Melissa",
+    "apellidos": "Banegas Cárcamo",
+    "celular": [],
+    "email": ["aribanegas@outlook.com"],
+    "partido": "nacional",
+    "departamento": "colon"
+  },
+  {
+    "nombres": "Óscar Ramón",
+    "apellidos": "Nájera",
+    "celular": [],
+    "email": ["oscarnajera@gmail.com"],
+    "partido": "nacional",
+    "departamento": "colon"
+  },
+  {
+    "nombres": "Pablo Ramón",
+    "apellidos": "Soto Bonilla",
+    "celular": [],
+    "email": ["ramonsotobonilla@gmail.com"],
+    "partido": "libre",
+    "departamento": "colon"
+  },
+  {
+    "nombres": "Tibdeo Ricardo",
+    "apellidos": "Elencoff Martínez",
+    "celular": [],
+    "email": ["ricardoelencoff@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "colon"
+  },
+  {
+    "nombres": "Gerardo Tulio",
+    "apellidos": "Martínez Pineda",
+    "celular": [],
+    "email": ["gtmartinezpineda2@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "José María",
+    "apellidos": "Martínez Valenzuela",
+    "celular": [],
+    "email": ["chemamartinez2008@gmail.com"],
+    "partido": "nacional",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Miguel Edgardo",
+    "apellidos": "Martínez Pineda",
+    "celular": [],
+    "email": ["edgardomartinez.martinez@gmail.com"],
+    "partido": "nacional",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Miguel Edgardo",
+    "apellidos": "Martínez Pineda",
+    "celular": [],
+    "email": ["edgardomartinez.martinez@gmail.com"],
+    "partido": "nacional",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Víctor Manuel",
+    "apellidos": "Barahona",
+    "celular": [],
+    "email": ["victorporcomayagua@gmail.com"],
+    "partido": "liberal",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Gloria Argentina",
+    "apellidos": "Bonilla Bonilla",
+    "celular": [],
+    "email": ["gloriabb7@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Juan Ramón",
+    "apellidos": "Flores Buezo",
+    "celular": [],
+    "email": [],
+    "partido": "libre",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Yahve Salvador",
+    "apellidos": "Sabillón Cruz",
+    "celular": [],
+    "email": ["ysalva28@gmail.com"],
+    "partido": "libre",
+    "departamento": "comayagua"
+  },
+  {
+    "nombres": "Olga Joseffa",
+    "apellidos": "Ayala Alvarenga",
+    "celular": [],
+    "email": ["ojyala5@gmail.com"],
+    "partido": "nacional",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Manuel de Jesús",
+    "apellidos": "Mejía",
+    "celular": [],
+    "email": ["multicable2008@hotmail.com"],
+    "partido": "libre",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Roy Dagoberto",
+    "apellidos": "Crúz Pérez",
+    "celular": [],
+    "email": ["turbo77_xhond@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Erick José",
+    "apellidos": "Alvarado Alvarado",
+    "celular": [],
+    "email": ["erickjalvarado1@yahoo.com.mx"],
+    "partido": "nacional",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Melvín Roberto",
+    "apellidos": "Paredes Milla",
+    "celular": [],
+    "email": ["paredesmilla76@gmail.com"],
+    "partido": "nacional",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Cristhiam Josué",
+    "apellidos": "Hernández Saavedra",
+    "celular": [],
+    "email": [],
+    "partido": "liberal",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Juan Carlos",
+    "apellidos": "Elvír Martel",
+    "celular": [],
+    "email": ["elvirjc@yahoo.es"],
+    "partido": "liberal",
+    "departamento": "copan"
+  },
+  {
+    "nombres": "Alberto",
+    "apellidos": "Chredrani Castañeda",
+    "celular": [],
+    "email": ["chedraniuno@gmail.com"],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Yaudet Bourbara",
+    "apellidos": "Canahuati",
+    "celular": [],
+    "email": ["yaudethbourbara@gmail.com"],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Jaime Enrique",
+    "apellidos": "Villegas Roura",
+    "celular": [],
+    "email": ["jevillegas03@gmail.com"],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Gilberto Jerónimo",
+    "apellidos": "Yearwood",
+    "celular": [],
+    "email": [],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Reynaldo Geovanny",
+    "apellidos": "Ekónomo Funes",
+    "celular": [],
+    "email": ["ekonomofunes@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Leo Yamir Valentino",
+    "apellidos": "Castellón Hirezi",
+    "celular": [],
+    "email": ["leocastellon@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Welsy Milena",
+    "apellidos": "Vásquez López",
+    "celular": [],
+    "email": ["welsyvl@gmail.com"],
+    "partido": "nacional",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Ángel Darío",
+    "apellidos": "Vásquez López",
+    "celular": [],
+    "email": ["guerrero.deluz@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Patricia Suyapa",
+    "apellidos": "Murillo Gutiérrez",
+    "celular": [],
+    "email": ["patriciamurillo@yahoo.com"],
+    "partido": "libre",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "José Edgardo",
+    "apellidos": "Castro Rodríguez",
+    "celular": [],
+    "email": [],
+    "partido": "libre",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Linda Frances",
+    "apellidos": "Donaire Portillo",
+    "celular": [],
+    "email": ["donaire.donaire4@gmail.com"],
+    "partido": "libre",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "José Luis",
+    "apellidos": "Cruz Rivera",
+    "celular": [],
+    "email": ["joselcs14@hotmail.com"],
+    "partido": "libre",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Scherly Melissa",
+    "apellidos": "Arriaga Gómez",
+    "celular": [],
+    "email": ["arriagascherly@gmail.com"],
+    "partido": "libre",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Karen Dinora",
+    "apellidos": "Ortega Osorto",
+    "celular": [],
+    "email": ["karen85_33@hotmail.com"],
+    "partido": "alianza patriotica",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Bernardo Enrique",
+    "apellidos": "Medina Yllescas",
+    "celular": [],
+    "email": ["ceo@isshonduras.com"],
+    "partido": "alianza patriotica",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Harry Stephen",
+    "apellidos": "Panting Zelaya",
+    "celular": [],
+    "email": ["hpanting@panxela.com"],
+    "partido": "liberal",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Luis Rolando",
+    "apellidos": "Redondo",
+    "celular": [],
+    "email": ["lredondo@gmail.com"],
+    "partido": "pinu",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Osman Danilo",
+    "apellidos": "Chávez Guity",
+    "celular": [],
+    "email": ["bunguiul1984@gmail.com"],
+    "partido": "pac",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Rubén Francisco",
+    "apellidos": "García Martínez",
+    "celular": [],
+    "email": ["rfgmhn@gmail.com"],
+    "partido": "liberal",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "Héctor Samuel",
+    "apellidos": "Madrid Sabillón",
+    "celular": [],
+    "email": ["hectorsamuelms@hotmail.com"],
+    "partido": "libre",
+    "departamento": "cortes"
+  },
+  {
+    "nombres": "María Emerita",
+    "apellidos": "Bardales Hernández",
+    "celular": [],
+    "email": ["melitadiputada@gmail.com"],
+    "partido": "nacional",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Selvin Ramón",
+    "apellidos": "Rueda Rueda",
+    "celular": [],
+    "email": ["selvinruedapn@gmail.com"],
+    "partido": "nacional",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Clara María",
+    "apellidos": "Lainez Ordóñez",
+    "celular": [],
+    "email": ["doctoraclaritadiputada@gmail.com"],
+    "partido": "nacional",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Carlos Roberto",
+    "apellidos": "Ledezma Casco",
+    "celular": [],
+    "email": ["crledezma@yahoo.es"],
+    "partido": "nacional",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Mauricio",
+    "apellidos": "Oliva Herrera",
+    "celular": [],
+    "email": ["moliva08@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Luis Geovany",
+    "apellidos": "Martínez Sánchez",
+    "celular": [],
+    "email": [],
+    "partido": "libre",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "David Armando",
+    "apellidos": "Reyes Osorto",
+    "celular": [],
+    "email": ["david_reyes77@hotmail.com"],
+    "partido": "pinu",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Carlos Alfredo",
+    "apellidos": "Lara Watson",
+    "celular": [],
+    "email": ["calfredolaraw@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Yuri Cristhian",
+    "apellidos": "Sabas Gutiérrez",
+    "celular": [],
+    "email": ["tractoryusa@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "choluteca"
+  },
+  {
+    "nombres": "Sara Ismela",
+    "apellidos": "Medina Galo",
+    "celular": [],
+    "email": ["diputadasaramedina@gmail.com"],
+    "partido": "nacional",
+    "departamento": "el paraiso"
+  },
+  {
+    "nombres": "José Celín",
+    "apellidos": "Discua Elvir",
+    "celular": [],
+    "email": [],
+    "partido": "nacional",
+    "departamento": "el paraiso"
+  },
+  {
+    "nombres": "Walter Antonio",
+    "apellidos": "Chávez Hernández",
+    "celular": [],
+    "email": ["walterchavez007@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "el paraiso"
+  },
+  {
+    "nombres": "Francisco Javier",
+    "apellidos": "Paz Laínez",
+    "celular": [],
+    "email": ["franjapaz72@hotmail.com"],
+    "partido": "libre",
+    "departamento": "el paraiso"
+  },
+  {
+    "nombres": "Mario Edgardo",
+    "apellidos": "Segura Aroca",
+    "celular": [],
+    "email": ["mariosegura095@gmail.com"],
+    "partido": "liberal",
+    "departamento": "el paraiso"
+  },
+  {
+    "nombres": "Rony Jonathan",
+    "apellidos": "Martínez Chávez",
+    "celular": [],
+    "email": ["ronyjmartinez84@gmail.com"],
+    "partido": "libre",
+    "departamento": "el paraiso"
+  },
+  {
+    "nombres": "Denis Armado",
+    "apellidos": "Castro Bobadilla",
+    "celular": [],
+    "email": ["dac504@yahoo.com"],
+    "partido": "alianza patriotica",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Felícito Ávila",
+    "apellidos": "Ordóñez",
+    "celular": [],
+    "email": ["fao1949@hotmail.com"],
+    "partido": "democracia cristiana",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Mario Luis Noé",
+    "apellidos": "Villafranca",
+    "celular": [],
+    "email": ["marionoevillafranca@yahoo.com"],
+    "partido": "unificacion democratica",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Doris Alejandrina",
+    "apellidos": "Gutiérrez",
+    "celular": [],
+    "email": ["dorisg30@hotmail.com"],
+    "partido": "pinu",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "David Guillermo",
+    "apellidos": "Chávez Madison",
+    "celular": [],
+    "email": ["dchavezmadison@gmail.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "José Jesús",
+    "apellidos": "Villanueva Madariaga",
+    "celular": [],
+    "email": ["jochevillanuev@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Wilmer Raynel",
+    "apellidos": "Neal Velásquez",
+    "celular": [],
+    "email": ["velasquezneal@gmail.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Johana Guicel",
+    "apellidos": "Bermúdez Lacayo",
+    "celular": [],
+    "email": [],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Antonio César",
+    "apellidos": "Rivera Callejas",
+    "celular": [],
+    "email": ["antoniorivera63@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Jorge Luis",
+    "apellidos": "Cálix Espinal",
+    "celular": [],
+    "email": ["jorgecalix52@hotmail.com"],
+    "partido": "libre",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Rossel Renán",
+    "apellidos": "Inestroza Martínez",
+    "celular": [],
+    "email": ["renaninestroza@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "María Luisa",
+    "apellidos": "Borjas Vásquez",
+    "celular": [],
+    "email": ["bvmluisa2010@hotmail.com"],
+    "partido": "libre",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Juan Diego",
+    "apellidos": "Zelaya Aguilar",
+    "celular": [],
+    "email": ["juandiego@partidonacional.hn"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Norma Edinora",
+    "apellidos": "Brooks",
+    "celular": [],
+    "email": ["nedinora@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Juan Alberto",
+    "apellidos": "Barahona Mejía",
+    "celular": [],
+    "email": ["juanbarahona.hn@gmail.com"],
+    "partido": "libre",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Oscar Arturo",
+    "apellidos": "Álvarez Guerrero",
+    "celular": [],
+    "email": ["oaseguridad@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Mauricio",
+    "apellidos": "Villeda Bermúdez",
+    "celular": [],
+    "email": ["mauriciovilledabermudez@gmail.com"],
+    "partido": "liberal",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Chara Margoth",
+    "apellidos": "González Peralta",
+    "celular": [],
+    "email": ["ashantycrisanto@yahoo.com"],
+    "partido": "libre",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "José Oswaldo",
+    "apellidos": "Ramos Soto",
+    "celular": [],
+    "email": ["joramossoto@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Elvin Ernesto",
+    "apellidos": "Santos Ordóñez",
+    "celular": [],
+    "email": ["esantos@gruposantoshn.com"],
+    "partido": "liberal",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Sobeyda Judith",
+    "apellidos": "Andino Álvarez",
+    "celular": [],
+    "email": ["sobeydaandinodiputada@gmail.com"],
+    "partido": "liberal",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Waleska Marlene",
+    "apellidos": "Zelaya Portillo",
+    "celular": [],
+    "email": ["waleskazelaya@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Jari Dixon",
+    "apellidos": "Herrera Hernández",
+    "celular": [],
+    "email": ["jarihiz@yahoo.com"],
+    "partido": "libre",
+    "departamento": "francisco morazan"
+  },
+  {
+    "nombres": "Rodrigo",
+    "apellidos": "Ávila Levas",
+    "celular": [],
+    "email": ["rodguito@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "gracias a dios"
+  },
+  {
+    "nombres": "Elden",
+    "apellidos": "Vásquez",
+    "celular": [],
+    "email": [],
+    "partido": "nacional",
+    "departamento": "intibuca"
+  },
+  {
+    "nombres": "Nelson Javier",
+    "apellidos": "Marquez Euceda",
+    "celular": [],
+    "email": ["nelsonmarquez7@yahoo.es"],
+    "partido": "nacional",
+    "departamento": "intibuca"
+  },
+  {
+    "nombres": "Olivia Marcela",
+    "apellidos": "Zúniga Cáceres",
+    "celular": [],
+    "email": ["faat.hond@gmail.com"],
+    "partido": "libre",
+    "departamento": "intibuca"
+  },
+  {
+    "nombres": "Ronnie Richard",
+    "apellidos": "Mc Nab Thompson",
+    "celular": [],
+    "email": ["jronmcnab@yahoo.com"],
+    "partido": "liberal",
+    "departamento": "islas de la bahia"
+  },
+  {
+    "nombres": "Gladis Aurora",
+    "apellidos": "López Calderón",
+    "celular": [],
+    "email": ["glalocal@icloud.com"],
+    "partido": "nacional",
+    "departamento": "la paz"
+  },
+  {
+    "nombres": "Raúl Edgardo",
+    "apellidos": "Bulnes Barahona",
+    "celular": [],
+    "email": ["raulbulnes@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "la paz"
+  },
+  {
+    "nombres": "José Rosario",
+    "apellidos": "Tejeda Tejeda",
+    "celular": [],
+    "email": [],
+    "partido": "liberal",
+    "departamento": "la paz"
+  },
+  {
+    "nombres": "Juan Carlos",
+    "apellidos": "Valenzuela Molina",
+    "celular": [],
+    "email": ["valenzuelamolinaj@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "lempira"
+  },
+  {
+    "nombres": "Salvador Valeriano",
+    "apellidos": "Pineda",
+    "celular": [],
+    "email": ["salva0608@yahoo.com.mx"],
+    "partido": "nacional",
+    "departamento": "lempira"
+  },
+  {
+    "nombres": "Samuel Armando",
+    "apellidos": "Reyes Rendón",
+    "celular": [],
+    "email": [],
+    "partido": "nacional",
+    "departamento": "lempira"
+  },
+  {
+    "nombres": "Nery Orlando",
+    "apellidos": "Reyes Hernández",
+    "celular": [],
+    "email": [],
+    "partido": "liberal",
+    "departamento": "lempira"
+  },
+  {
+    "nombres": "Yester Omar",
+    "apellidos": "Muñoz",
+    "celular": [],
+    "email": ["omar05hn8@yahoo.com.mx"],
+    "partido": "libre",
+    "departamento": "lempira"
+  },
+  {
+    "nombres": "Hugo Ricardo",
+    "apellidos": "Hernández",
+    "celular": [],
+    "email": ["hernandezhugoricardo@gmail.com"],
+    "partido": "liberal",
+    "departamento": "ocotepeque"
+  },
+  {
+    "nombres": "Román",
+    "apellidos": "Villeda Aguilar",
+    "celular": [],
+    "email": ["romandiputado2010@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "ocotepeque"
+  },
+  {
+    "nombres": "Reinaldo Antonio",
+    "apellidos": "Sánchez Rivera",
+    "celular": [],
+    "email": ["sanchezrivera2006@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "Teresa Concepción",
+    "apellidos": "Cálix Raudales",
+    "celular": [],
+    "email": ["teresacalixraudales@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "Jorge Dimitrov",
+    "apellidos": "Lobo Alonzo",
+    "celular": [],
+    "email": ["jorgedlobo@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "Carlos Armando",
+    "apellidos": "Zelaya Rosales",
+    "celular": [],
+    "email": ["wampo2010@gmail.com"],
+    "partido": "libre",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "Rafael Leonardo",
+    "apellidos": "Sarmiento Aguiriano",
+    "celular": [],
+    "email": ["rafalsarmiento@gmail.com"],
+    "partido": "libre",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "Fredy Renán",
+    "apellidos": "Nájera Montoya",
+    "celular": [],
+    "email": [],
+    "partido": "liberal",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "José Francisco",
+    "apellidos": "Rivera Hernández",
+    "celular": [],
+    "email": [],
+    "partido": "nacional",
+    "departamento": "olancho"
+  },
+  {
+    "nombres": "Mario Alonso",
+    "apellidos": "Pérez López",
+    "celular": [],
+    "email": ["marioalonsoperez@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "Rolando",
+    "apellidos": "Dubón Bueso",
+    "celular": [],
+    "email": ["rdubonb@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "Martha Concepción",
+    "apellidos": "Figueroa Torres",
+    "celular": [],
+    "email": ["mcguevaraft@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "César Enrique",
+    "apellidos": "Handal Fernández",
+    "celular": [],
+    "email": ["cesarhandal@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "Marcos Bertilio",
+    "apellidos": "Paz Sabillón",
+    "celular": [],
+    "email": ["markitospaz@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "Víctor Rolando",
+    "apellidos": "Paz Sabillón",
+    "celular": [],
+    "email": ["vsabillon@hotmail.com"],
+    "partido": "liberal",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "Sergio Arturo",
+    "apellidos": "Castellanos Perdomo",
+    "celular": [],
+    "email": ["sergiocastellanos1969@hotmail.com"],
+    "partido": "libre",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "German Oswaldo",
+    "apellidos": "Altamirano Díaz",
+    "celular": [],
+    "email": ["altamiranodiazgerman@gmail.com"],
+    "partido": "libre",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "Edgardo Antonio",
+    "apellidos": "Casaña Mejía",
+    "celular": [],
+    "email": ["edgardocoprumh@yahoo.es"],
+    "partido": "libre",
+    "departamento": "santa barbara"
+  },
+  {
+    "nombres": "José Alfredo",
+    "apellidos": "Saavedra Paz",
+    "celular": [],
+    "email": ["josesaavedracnhn@yahoo.es"],
+    "partido": "liberal",
+    "departamento": "valle"
+  },
+  {
+    "nombres": "José Tomás",
+    "apellidos": "Zambrano Molina",
+    "celular": [],
+    "email": ["jtomaszm@hotmail.com"],
+    "partido": "nacional",
+    "departamento": "valle"
+  },
+  {
+    "nombres": "Marcos Antonio",
+    "apellidos": "Velásquez",
+    "celular": [],
+    "email": ["marcosvelasquezdiputado@gmail.com"],
+    "partido": "nacional",
+    "departamento": "valle"
+  },
+  {
+    "nombres": "Josué Fabricio",
+    "apellidos": "Carbajal Sandoval",
+    "celular": [],
+    "email": ["abogadosandovalhn@gmail.com"],
+    "partido": "libre",
+    "departamento": "valle"
+  },
+  {
+    "nombres": "Dunia Lizzette",
+    "apellidos": "Ortíz Cruz",
+    "celular": [],
+    "email": ["almeric8037777@gmail.com"],
+    "partido": "alianza patriotica",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "José Vivián",
+    "apellidos": "Portillo Ramírez",
+    "celular": [],
+    "email": [],
+    "partido": "liberal",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Juan Pompilio",
+    "apellidos": "Tejeda Duarte",
+    "celular": [],
+    "email": ["juanpilotejeda@yahoo.com.mx"],
+    "partido": "liberal",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Irma Aida",
+    "apellidos": "Reyes Coello",
+    "celular": [],
+    "email": ["aidasuyo@yahoo.com"],
+    "partido": "libre",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Marco Aurelio",
+    "apellidos": "Tinoco Urbina",
+    "celular": [],
+    "email": ["aumarcotinoco@hotmail.com"],
+    "partido": "libre",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Eder Leonel",
+    "apellidos": "Mejía Laínez",
+    "celular": [],
+    "email": ["eder983@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Gabriel Alfredo",
+    "apellidos": "Rubí Paredes",
+    "celular": [],
+    "email": ["gabrielr123@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Marco Tulio",
+    "apellidos": "Gámez Díaz",
+    "celular": [],
+    "email": ["gamezmt@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "yoro"
+  },
+  {
+    "nombres": "Milton Jesús",
+    "apellidos": "Puerto Oseguera",
+    "celular": [],
+    "email": ["mjpuerto_69@yahoo.com"],
+    "partido": "nacional",
+    "departamento": "yoro"
+  }
+]
